@@ -20,8 +20,8 @@ class HtmlToImg {
     }
   }
   async generate({
-    text1 = "Jane",
-    text2 = "Doe",
+    text1 = "Januari",
+    text2 = "2025",
     model: template = 1,
     type = "v5"
   }) {
